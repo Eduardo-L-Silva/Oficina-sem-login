@@ -46,6 +46,7 @@
                             <th>Valor 2</th>
                             <th>Descrição 3</th>
                             <th>Valor 3</th>
+                            <th>Deletar</th>
                             <th></th>
                         </tr>
                     </thead>
