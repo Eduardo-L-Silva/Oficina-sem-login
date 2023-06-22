@@ -18,7 +18,7 @@
     <body>
     
         <?php
-    include './menu.php';
+    include './includes/menu.php';
     
     ?>
 <div class="container">
